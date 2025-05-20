@@ -1,4 +1,4 @@
-# PolyGone: Enzymatic PET Degradation Using Genetically Engineered E. coli
+# PolyGone: Enzymatic PET Degradation Using Genetically Engineered E. coli (w/ MATLAB simulation)
 This project leverages synthetic biology to address plastic pollution by engineering Escherichia coli to degrade polyethylene terephthalate (PET), a durable plastic causing environmental harm. Our genetic circuit breaks PET into ethylene glycol (EG) and terephthalic acid (TPA), then converts toxic EG into safe byproducts (malate and coenzyme A), offering a sustainable solution for waste management with applications in biomedical engineering and pharmaceutical packaging.
 Problem Statement
 PET's slow degradation (2,500-year half-life) contributes to 79% of the 6.3 billion tons of plastic waste in landfills or ecosystems (2015–2020). Microplastics pose risks to biodiversity and human health, including reproductive and hormonal issues. Current microbial solutions produce toxic EG, limiting their efficacy. Our system enhances PET degradation and eliminates EG toxicity.
