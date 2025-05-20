@@ -26,16 +26,6 @@ Efficient PET breakdown into EG and TPA, surpassing natural degradation rates.
 EG conversion to malate and CoA, with bottlenecks in downstream efficiency.
 Simulations confirm circuit functionality, though EG degradation needs optimization.
 
-# Relevance to Biomedical Engineering
-Sustainable Packaging: Enables eco-friendly pharmaceutical packaging degradation.
-Health Safety: Reduces microplastic-related health risks (e.g., hormonal imbalances).
-Biotechnology: Showcases synthetic biology for sustainable bioprocessing.
-
-# Future Directions
-Optimize EG degradation via enzyme expression tuning.
-Develop universal promoters for broader PET applicability.
-Scale for industrial bioremediation and pharmaceutical waste management.
-
 # Tools and Technologies
 Molecular Biology: Golden Gate assembly, PCR, electroporation.
 Bioinformatics: MATLAB Simbiology.
